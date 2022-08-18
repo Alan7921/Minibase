@@ -1,0 +1,1 @@
+Q(a,b,c,d,e,g) :- P(a,b,c,d), D(e,'Surgery',g), A(a,e,1), e >= 2, g >= 7

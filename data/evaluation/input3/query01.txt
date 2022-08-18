@@ -1,0 +1,1 @@
+Q(a,b,c,d,x,y,z) :- P(a,b,c,d), D(x,y,z), a = z

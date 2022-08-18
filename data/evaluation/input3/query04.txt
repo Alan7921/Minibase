@@ -1,0 +1,1 @@
+Q(a,b,c,d,e,f,g,h) :- P(a,b,c,d), D(e,f,g), A(h,i,j), a = h, e = i

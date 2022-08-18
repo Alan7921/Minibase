@@ -1,0 +1,1 @@
+Q(e, d, SUM(c)) :- P(a, b, c, d), M(d, e), c >= 60

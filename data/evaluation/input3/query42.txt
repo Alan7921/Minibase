@@ -1,0 +1,1 @@
+R(a,b,c,d,e,f,g,h,i,j,k,l,m,n) :- P(a,b,c,d), D(e,f,g), A(a,e,h), Q(i,j,k,l,m,n)

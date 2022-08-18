@@ -1,0 +1,9 @@
+1, 'John Dorian', 'Staff Internist', 111111111, 1, 'General Medicine', 4
+2, 'Elliot Reid', 'Attending Physician', 222222222, 1, 'General Medicine', 4
+3, 'Christopher Turk', 'Surgical Attending Physician', 333333333, 2, 'Surgery', 7
+4, 'Percival Cox', 'Senior Attending Physician', 444444444, 1, 'General Medicine', 4
+5, 'Bob Kelso', 'Head Chief of Medicine', 555555555, 1, 'General Medicine', 4
+6, 'Todd Quinlan', 'Surgical Attending Physician', 666666666, 2, 'Surgery', 7
+7, 'John Wen', 'Surgical Attending Physician', 777777777, 2, 'Surgery', 7
+8, 'Keith Dudemeister', 'MD Resident', 888888888, 1, 'General Medicine', 4
+9, 'Molly Clock', 'Attending Psychiatrist', 999999999, 3, 'Psychiatry', 9

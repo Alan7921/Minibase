@@ -1,0 +1,5 @@
+1, 'John Dorian', 'Staff Internist', 111111111, 1, 'General Medicine', 4, 1, 100000001, 'John Smith', '555-0256', '42 Foobar Lane', 68476213, 1
+2, 'Elliot Reid', 'Attending Physician', 222222222, 1, 'General Medicine', 4, 1, 100000002, 'Grace Ritchie', '555-0512', '37 Snafu Drive', 36546321, 2
+2, 'Elliot Reid', 'Attending Physician', 222222222, 1, 'General Medicine', 4, 1, 100000003, 'Random J. Patient', '555-1204', '101 Omgbbq Street', 65465421, 2
+3, 'Christopher Turk', 'Surgical Attending Physician', 333333333, 1, 'General Medicine', 4, 0, 100000004, 'Dennis Doe', '555-2048', '1100 Foobaz Avenue', 68421879, 3
+3, 'Christopher Turk', 'Surgical Attending Physician', 333333333, 2, 'Surgery', 7, 1, 100000004, 'Dennis Doe', '555-2048', '1100 Foobaz Avenue', 68421879, 3

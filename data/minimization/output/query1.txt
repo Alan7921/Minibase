@@ -1,0 +1,1 @@
+Q(x, y) :- R(x, a), P(x, y, a), S(a, a, x), S(y, y, x)

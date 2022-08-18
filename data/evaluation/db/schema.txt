@@ -1,0 +1,9 @@
+R int int string
+S int string int
+T int int
+SAILORS int int int
+BOATS int int int
+RESERVES int int
+TESTTABLEX int int
+TESTTABLEY int int int
+LARGETABLE int int int int int int int int int int int int int

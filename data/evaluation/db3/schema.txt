@@ -1,0 +1,7 @@
+P int string string int
+D int string int
+A int int int
+Q int string string string int int
+N int string string int int
+B int int int
+R int int int string int string

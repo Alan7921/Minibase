@@ -1,0 +1,1 @@
+Q(y, x) :- R(x, y, z), R(x, y, zz), z = zz

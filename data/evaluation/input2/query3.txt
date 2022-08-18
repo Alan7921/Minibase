@@ -1,0 +1,1 @@
+Q(a, b, c, d, e) :- P(a, b, c, d), M(d, e)

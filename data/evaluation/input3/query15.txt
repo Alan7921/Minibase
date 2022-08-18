@@ -1,0 +1,1 @@
+Q(f,SUM(j)) :- P(a,b,c,d), D(e,f,g), A(a,e,j)
